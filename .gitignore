@@ -1,0 +1,23 @@
+# Virtual machine files
+*.vmdk
+*.vmem
+*.vmss
+*.vmsn
+*.nvram
+*.lck
+
+# ISO images
+*.iso
+
+# Secrets and keys
+.env
+*.pem
+*.key
+*.pfx
+*.p12
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
